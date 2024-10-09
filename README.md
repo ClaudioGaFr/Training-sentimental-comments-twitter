@@ -1,5 +1,5 @@
-# data-analyst-claudio
-Exploratory Data Analysis (EDA) for Twitter Sentimental Analysis Dataset
+# Exploratory Data Analysis (EDA) for Twitter Sentimental Analysis Dataset
+
 
 Project title: Exploratory Data Analysis of Twitter Sentiment: Understanding Public Opinion through Text Mining
 
